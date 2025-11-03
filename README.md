@@ -1,3 +1,11 @@
+## Deprecation Notice
+
+This public repository is no longer maintained. Please see [this issue](https://github.com/SAP/PyRFC/issues/372) for details.
+
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+---
+
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-DA280)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-DA280)
 
 # DA280 - Build an Integrated Planning Scenario with Data and Analytics Solutions
